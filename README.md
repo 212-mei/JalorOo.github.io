@@ -1,5 +1,7 @@
 > 中文
 
+![](https://i.niupic.com/images/2020/01/18/6l3D.png)
+
 # 喵滴
 
 ## 开发者信息
@@ -43,17 +45,17 @@
 
 ```html
 <center> 
-<font color=red size=72>这里居中</font>
+<font color=blue size=32>这里居中</font>
 </center>
-<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1578936732804&di=b560f35e84a924a8e49c6d39b4339b30&imgtype=0&src=http%3A%2F%2Fdmimg.5054399.com%2Fallimg%2Fpkm%2Fpk%2F22.jpg" width="250" height="200" >
+<img src="https://i.niupic.com/images/2020/01/18/6l3I.png" width="250" height="150" >
 ```
 ---
 > 效果如下图
 
 <center> 
-<font color=red size=72>这里居中</font>
+<font color=blue size=32>这里居中</font>
 </center>
-<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1578936732804&di=b560f35e84a924a8e49c6d39b4339b30&imgtype=0&src=http%3A%2F%2Fdmimg.5054399.com%2Fallimg%2Fpkm%2Fpk%2F22.jpg" width="250" height="200" >
+<img src="https://i.niupic.com/images/2020/01/18/6l3I.png" width="250" height="150" >
 
 ---
 
@@ -83,6 +85,8 @@
 * 每日打卡
 > 点击App给你打招呼的信息即可立即查看每日目标
 > 坚持打卡，完成好习惯。坚持打卡可获得作者奖励哦！
+
+![](https://i.niupic.com/images/2020/01/18/6l3G.png)
 
 ### 更多
 假如您喜欢分享您的写作或笔记，请发送你的作品到喵滴作者邮箱——`2224825716@qq.com`，我们会安排在公众号上刊登。
