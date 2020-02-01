@@ -41,22 +41,7 @@
 > [看看Jalor写的介绍文档吧](https://www.jianguoyun.com/p/DUGwV7oQg7GBCBj59sQC)
 > 什么，你对这种Markdown方便快捷的语法还不熟悉？
 > 那还等什么，[快来点击我](https://github.com/younghz/Markdown)
-> 等等，还有一个就是`Markdown`兼容`html`语法
-
-```html
-<center> 
-<font color=blue size=32>这里居中</font>
-</center>
-<img src="https://i.niupic.com/images/2020/01/18/6l3I.png" width="250" height="150" >
-```
----
-> 效果如下图
-
-<center> 
-<font color=blue size=32>这里居中</font>
-</center>
-<img src="https://i.niupic.com/images/2020/01/18/6l3I.png" width="250" height="150" >
-
+> 等等，还有一个就是`Markdown`兼容`html`语法(目前仅支持Android)
 ---
 
 * 编写数学公式
@@ -87,6 +72,8 @@
 > 坚持打卡，完成好习惯。坚持打卡可获得作者奖励哦！
 
 ![](https://i.niupic.com/images/2020/01/18/6l3G.png)
+
+> 还有许多使用介绍请点击「[玩转喵滴](https://jaloroo.github.io/help/help)」
 
 ### 更多
 假如您喜欢分享您的写作或笔记，请发送你的作品到喵滴作者邮箱——`2224825716@qq.com`，我们会安排在公众号上刊登。
@@ -142,27 +129,10 @@
 * Generate Markdown files
 > The application data is stored in the application by default. Data loss will be caused by data unloading or clearing.We suggest that you configure `WebDAV` as soon as you get started with the software, or support us and activate cloud services.
 > Huh? You don't know how to configure 'WebDAV'?
-> [Take a look at the introduction document written by Jalor]
-(https://www.jianguoyun.com/p/DUGwV7oQg7GBCBj59sQC)
+> [Take a look at the introduction document written by Jalor](https://www.jianguoyun.com/p/DUGwV7oQg7GBCBj59sQC)
 > What? Are you not familiar with the convenient and quick syntax of Markdown?
 > What are you waiting for? [Click on me](https://github.com/younghz/Markdown)
 > Wait, Another thing is that `Markdown` is compatible with `html` syntax.
-
-```html
-<center> 
-<font color=blue size=32>It is centered</font>
-</center>
-< img src="https://i.niupic.com/images/2020/01/18/6l3I.png" width="250" height="150" >
-```
----
-> The effect is as follows.
-
-<center> 
-<font color=blue size=32>It is centered</font>
-</center>
-< img src="https://i.niupic.com/images/2020/01/18/6l3I.png" width="250" height="150" >
-
----
 
 * Write mathematical formulas
 >You can use `LetaX` to write mathematical formulas, and you need to enclose the formula with `$ $`.
@@ -197,10 +167,9 @@
 If you like to share your writings or notes, please send your works to the author's email.——`2224825716@qq.com`. We will arrange to publish it on the official account.
 
 ### End
-> To participate in the internal test, please click [Official Internal Test Group]
-(:https://jq.qq.com/?_wv=1027&k=52RzxWK)
+> To participate in the internal test, please click [Official Internal Test Group](https://jq.qq.com/?_wv=1027&k=52RzxWK)
 
-> Participate in the experience version[the experience version](https://fir.im/libv)
+> Participate in the experience version [the experience version](https://fir.im/libv)
 
 > It is highly recommended to follow the official MiaD account.——「`Libv合纵星球`」
 
