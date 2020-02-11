@@ -3,6 +3,10 @@
 ![](https://i.niupic.com/images/2020/01/18/6l3D.png)
 
 # 喵滴
+## 热点：
+1. 「[喵滴实行订阅制高级会员](https://sunshinesudio.com/senior)」
+2. 喵滴打卡活动仍在继续，规则有所变动，详情请下滑。
+
 
 ## 开发者信息
 * 姓名:Jalor
