@@ -1,4 +1,4 @@
-> [中文](https://sunshinesudio.com/README)
+> [中文](https://sunshinesudio.com)
 
 ![](https://i.niupic.com/images/2020/01/18/6l3D.png)
 
