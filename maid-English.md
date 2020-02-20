@@ -11,6 +11,7 @@
 * E-mail:sunshinesudio@qq.com
 * Weibo:JalorOo
 * Twitter:@Jalor_Bamboo
+* Telegram:@JalorOo
 
 
 ## Special thanks to 

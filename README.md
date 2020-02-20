@@ -15,11 +15,12 @@
 * E-mail:sunshinesudio@qq.com
 * Weibo:JalorOo
 * Twitter:@Jalor_Bamboo
+* Telegram:@JalorOo
 
 
 ## 特别感谢
 * AppUI:酷友@123哆3
-* App资源:(深圳大学)**陈晓淋**提供的英语版本、(广东中医药大学)**梁咏橦**提供的日语版本。
+* App资源:(深圳大学)**陈晓淋**提供的英语版本、**苏晓漩**提供的中文繁体版本、**Serg**提供的俄文版本。
 * App测试:一直参加内测的小伙伴们
 
 ## 介绍
