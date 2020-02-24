@@ -1,4 +1,4 @@
-> [English](https://sunshinesudio.com/maid-English)
+> [English](https://sunshinesudio.com/miad-English)
 
 ![](https://i.niupic.com/images/2020/01/18/6l3D.png)
 
