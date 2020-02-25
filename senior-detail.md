@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2018-05-17 14:05:21 +0800
+tags: jekyll update
+color: rgb(255,90,90)
+cover: '../assets/test.png'
+subtitle: 'Welcome to Jekyll!'
+---
 激活高级会员后，您将获得以下进阶内容进阶功能：
 
 * 「同步服务」:自动备份、自动拉取
