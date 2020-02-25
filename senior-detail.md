@@ -8,7 +8,7 @@ cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
 tags: jekyll
 ---
 
-激活高级会员后，您将获得以下进阶内容进阶功能：
+> 激活高级会员后，您将获得以下进阶内容进阶功能：
 
 * 「同步服务」:自动备份、自动拉取
 
