@@ -1,11 +1,10 @@
 ---
-layout: post
+layout: default
 title: '高级会员购买'
 date: 2020-02-25
 author: MiaD
 color: rgb(255,210,32)
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
-tags: jekyll
 ---
 
 > 激活高级会员后，您将获得以下进阶内容进阶功能：
