@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2018-05-17 14:05:21 +0800
-tags: jekyll update
-color: rgb(255,90,90)
-cover: '../assets/test.png'
-subtitle: 'Welcome to Jekyll!'
+title: '高级会员购买'
+date: 2020-02-25
+author: MiaD
+color: rgb(255,210,32)
+cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+tags: jekyll
 ---
+
 激活高级会员后，您将获得以下进阶内容进阶功能：
 
 * 「同步服务」:自动备份、自动拉取
