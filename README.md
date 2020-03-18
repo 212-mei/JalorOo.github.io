@@ -4,6 +4,7 @@
 
 # 喵滴
 ## 热点：
+1. 「[关于破解版的严正声明](https://jaloroo.github.io/help/Crack)」
 1. 「[意见反馈需求池](https://github.com/Libv-MiaD/MiaD-Suggestion/issues)」, 点击查看你的反馈处理进度。
 1. 喵滴打卡活动仍在继续，规则有所变动，详情请下滑。
 1. **Android版本使用介绍请点击「[玩转喵滴](https://jaloroo.github.io/help/help)」。**
