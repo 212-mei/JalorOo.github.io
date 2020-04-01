@@ -32,6 +32,7 @@
 * [酷安](https://www.coolapk.com/apk/cn.sunshinesudio.libv)
 * [小米](http://app.mi.com/details?id=cn.sunshinesudio.libv)
 * [华为](https://appstore.huawei.com/app/C101050203)
+* [Apple](https://apps.apple.com/cn/app/%E5%96%B5%E6%BB%B4/id1497445971)
 
 ### 主要功能
 * 快速记录
@@ -97,9 +98,9 @@
 ### 结尾
 > 参加内测请点击[官方内测群](:https://jq.qq.com/?_wv=1027&k=52RzxWK)
 
-> 参加体验版[体验版](https://fir.im/miad)
+> 参加Android体验版[体验版](https://sunshinesudio.club/maid)
 
 > 强烈推荐关注喵滴公众号——「`Libv`」
 
-最后更新于2020-02-12
+最后更新于2020-04-01
 编辑于「喵滴PC」
