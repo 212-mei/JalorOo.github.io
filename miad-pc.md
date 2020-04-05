@@ -5,16 +5,6 @@
 * Mac
 * Linux
 
-## 开发者信息
-* 姓名:Jalor
-* QQ:2224825716
-* WeChat:SunshineCompany2224
-* E-mail:sunshinesudio@qq.com
-* Weibo:JalorOo
-* Twitter:@Jalor_Bamboo
-* Telegram:@JalorOo
-
-
 ## 特别感谢
 * App测试:一直参加内测的小伙伴们
 
@@ -31,12 +21,16 @@
 > 在编写界面右滑即可快速预览
 > 需要图片的可以先使用`图床`上传你的图片获得链接，然后把链接写入
 
-* **还有许多使用介绍请点击「[玩转喵滴](https://jaloroo.github.io/help/help-iOS)」**
-
 ### 更多
 假如您喜欢分享您的写作或笔记，请发送你的作品到喵滴作者邮箱——`2224825716@qq.com`，我们会安排在公众号上刊登。
 
 ### 结尾
+
+## 联系我们
+* QQ:2224825716
+* WeChat:SunshineCompany2224
+* E-mail:sunshinesudio@qq.com
+* Weibo:Libv工作室
 
 > 强烈推荐关注喵滴公众号——「`Libv`」
 

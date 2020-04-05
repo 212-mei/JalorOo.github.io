@@ -1,16 +1,5 @@
 # 喵滴
 
-
-## 开发者信息
-* 姓名:Jalor
-* QQ:2224825716
-* WeChat:SunshineCompany2224
-* E-mail:sunshinesudio@qq.com
-* Weibo:JalorOo
-* Twitter:@Jalor_Bamboo
-* Telegram:@JalorOo
-
-
 ## 特别感谢
 * App测试:一直参加内测的小伙伴们
 
@@ -20,7 +9,10 @@
 
 ### 主要功能
 * 快速记录
-> 拥有快捷方式，在手机桌面长按，即可快速做笔记（Ps:本功能需要设备支持）
+> 拥有快捷方式，在手机桌面长按，即可快速做笔记
+
+* 写小小说
+> 喵滴有完整的记录本/目录分类，可以有效的整理你的小说。
 
 * 编写数学公式
 >支持使用`LetaX`编写数学公式，需要用`$$`把公式包住。
@@ -36,7 +28,13 @@
 
 ### 结尾
 
-> 强烈推荐关注喵滴公众号——「`Libv合纵星球`」
+> 强烈推荐关注喵滴公众号——「`Libv`」
 
-最后更新于2020-02-24
+## 联系我们
+* QQ:2224825716
+* WeChat:SunshineCompany2224
+* E-mail:sunshinesudio@qq.com
+* Weibo:Libv工作室
+
+最后更新于2020-04-03
 编辑于「喵滴PC」
