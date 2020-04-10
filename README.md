@@ -1,13 +1,11 @@
 > [English Version](https://sunshinesudio.com/miad-English)
 
-# 喵滴
-
-![](https://i.niupic.com/images/2020/01/18/6l3D.png)
+# 喵滴App
 
 ## 下载途径
 PC:
 
-* **Developing**
+* 预计5/6月发布首个版本
 
 iOS:
 * [Apple](https://apps.apple.com/cn/app/%E5%96%B5%E6%BB%B4/id1497445971)
@@ -24,17 +22,17 @@ Android:
 1. **Android版本使用介绍请点击「[玩转喵滴](https://jaloroo.github.io/help/help)」。**
 
 ## 介绍
-> 「喵滴」是一款在2019年开始开发的安卓应用，主要用于快速查看以及便捷编写Markdown文档、写作、做笔记、以及做备忘。应用拥有许多强大的功能，同时保持着非常小的体积。因此喵滴是一款轻便、快捷的安卓应用。使用「喵滴」再配合上「[Markdown](https://jaloroo.github.io/Markdown-Intro)」语法，可以使我们的工作效率翻倍。(点击前面的Markdown即可快速了解Markdown)
+> 「喵滴」是一款在2019年开始开发的应用，主要用于快速查看以及便捷编写Markdown文档、写作、做笔记、以及做备忘。应用拥有许多强大的功能，同时保持着尽量小的体积。因此喵滴是一款轻便、快捷的安卓应用。使用「喵滴」再配合上「[Markdown](https://jaloroo.github.io/Markdown-Intro)」语法，可以使我们的工作效率翻倍。(点击前面的Markdown即可快速了解Markdown)
 
 ### 主要功能
 * 快速记录
-	> 拥有快捷方式，在手机桌面长按，即可快速做笔记（Ps:本功能需要设备支持）
+	> 拥有快捷方式，在手机桌面长按，即可快速做笔记（仅Android支持）
 
 * 码字
 	> 喜欢写点`小小说`、还有`日记`的小伙伴可以在这里随意发挥啦。写好了还可以**一键导出**分享给好友
-	> 点击顶栏可以切换书籍哦
+	> 点击(顶栏Android/侧栏iOS)可以切换书籍哦
 
-* 生成Markdown文件
+* 生成Markdown文件(仅Android支持)
 	> 应用的数据默认是存储在应用内的，卸载或者清除数据等会导致数据丢失。建议大家一上手软件就配置好`WebDAV`或者支持我们一下，开通云服务也是可以的。
 	> 啊？你不懂怎么配置`WebDAV`？
 	> [看看Jalor写的介绍文档吧](https://www.jianguoyun.com/p/DUGwV7oQg7GBCBj59sQC)
@@ -46,7 +44,7 @@ Android:
 * 编写数学公式
 	>支持使用`LetaX`编写数学公式，需要用`$$`把公式包住。
 
-* 生成图片
+* 生成图片(仅Android支持)
 
 * 记录TODO
 	> 长按列表界面中的某条Todo即可删除。
@@ -57,16 +55,16 @@ Android:
 	> 需要图片的可以先使用`图床`上传你的图片获得链接，然后把链接写入
 	> 在Markdown列表界面，可以长按删除
 
-* 读取Markdown文件
+* 读取Markdown文件(仅Android支持)
 	> 在文件管理应用中选择你需要读取的文件，并使用「喵滴」预览
 
-* 设置Markdown CSS样式
+* 设置Markdown CSS样式(仅Android支持)
 	> 在设置—>实验室处可以加载自己喜欢的CSS样式
 
-* 设置自定义的字体
+* 设置自定义的字体(仅Android支持)
 	> 在设置—>实验室处可以加载自己喜欢的TTF字体文件
 
-* 每日打卡(活动日期2020年1月1日-2020年8月1日)
+* 每日打卡(活动日期2020年1月1日-2020年8月1日，仅限Android)
 
 	> 点击App给你打招呼的信息即可立即查看每日目标
 
@@ -96,7 +94,7 @@ Android:
 
 ## 特别感谢
 * AppUI:酷友@123哆3
-* App资源:(深圳大学)**陈晓淋**提供的英语版本、**苏晓漩**提供的中文繁体版本、**Serg**提供的俄文版本。
+* App资源:(深圳大学)**陈晓淋**提供的英语版本(Android)、**苏晓漩**提供的中文繁体版本(Android)、**Serg**提供的俄文版本(Android)。
 * App测试:一直参加内测的小伙伴们
 
 ## 联系我们
@@ -105,5 +103,5 @@ Android:
 * E-mail:sunshinesudio@qq.com
 * Weibo:Libv工作室
 
-最后更新于2020-04-01
+最后更新于2020-04-10
 编辑于「喵滴PC」
