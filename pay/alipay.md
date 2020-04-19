@@ -7,4 +7,6 @@ Wechat：SunshineCompany2224
 QQ：2224825716  
 
 2.  **支付时，请备注好您账号的L码(L-code)**，L码(L-code)在个人信息页，点击即可复制
-![「支付宝」](https://sunshinesudio.com/pay/alipay.jpg)
+
+3. 收款人为(*家乐)
+![「支付宝」](https://sunshinesudio.com/pay/alipay.png)
