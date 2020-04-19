@@ -23,3 +23,5 @@
 | 长期 | --- | --- | --- | 提供与App生命周期相同的激活时长 / 5月4号开售 |
  
 * [会员须知](https://sunshinesudio.com/senior)
+
+> 若下方按钮无法支付 请选择旁边的支付:[「支付宝」](https://sunshinesudio.com/pay/alipay)/[「微信支付」](https://sunshinesudio.com/pay/wechat)
