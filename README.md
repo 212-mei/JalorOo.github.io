@@ -12,10 +12,13 @@ iOS:
 
 Android:
 * [酷安](https://www.coolapk.com/apk/cn.sunshinesudio.libv)
-* [小米](http://app.mi.com/details?id=cn.sunshinesudio.libv)
 * [华为](https://appstore.huawei.com/app/C101050203)
+* 魅族
+
+> Ps：由于若干原因，小米应用商店，我们不再进行更新。
 
 ## 热点：
+1. 长期会员已在微信公众号`Libv`接受预定，回复`预定`填写预定信息。
 1. [「买对的正版数字店活动」，下单即送喵滴6个月会员。](https://sunshinesudio.com/announcement)
 1. 「[关于破解版的严正声明](https://jaloroo.github.io/help/Crack)」
 1. 「[意见反馈需求池](https://github.com/Libv-MiaD/MiaD-Suggestion/issues)」, 点击查看你的反馈处理进度。
