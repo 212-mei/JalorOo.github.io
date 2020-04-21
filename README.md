@@ -2,6 +2,11 @@
 
 # 喵滴App
 
+## 更新记录
+* [PC](https://sunshinesudio.com/PC/log)
+* [iOS](https://sunshinesudio.com/iOS/log)
+* [Android](https://sunshinesudio.com/Android/log)
+
 ## 下载途径
 PC:
 
@@ -14,8 +19,6 @@ Android:
 * [酷安](https://www.coolapk.com/apk/cn.sunshinesudio.libv)
 * [华为](https://appstore.huawei.com/app/C101050203)
 * 魅族
-
-> Ps：由于若干原因，小米应用商店，我们不再进行更新。
 
 ## 热点：
 1. 长期会员已在微信公众号`Libv`接受预定，回复`预定`填写预定信息。
