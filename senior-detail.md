@@ -26,4 +26,4 @@
 
 > 购买
 
-* [「支付宝支付」](https://sunshinesudio.com/pay/alipay)/[「微信支付支付」](https://sunshinesudio.com/pay/wechat)
+* [「支付宝支付」](https://sunshinesudio.com/pay/alipay)
