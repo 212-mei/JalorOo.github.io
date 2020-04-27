@@ -19,7 +19,7 @@ Android:
 * [酷安](https://www.coolapk.com/apk/cn.sunshinesudio.libv)
 * [华为](https://appstore.huawei.com/app/C101050203)
 * 魅族
-* [体验版](https://sunshinesudio.com/Android/beta/2020-3-6-1)
+* [体验版](https://sunshinesudio.com/Android/beta/2020-3-6-1.apk)
 
 ## 热点：
 1. 长期会员已在微信公众号`Libv`接受预定，回复`预定`填写预定信息。
