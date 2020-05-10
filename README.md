@@ -24,8 +24,7 @@ Android:
 * 魅族
 
 ## 热点：
-1. 长期会员已在微信公众号`Libv`接受预定，回复`预定`填写预定信息。
-1. [「买对的正版数字店活动」，下单即送喵滴6个月会员。](https://sunshinesudio.com/announcement)
+1. 长期会员开卖
 1. 「[关于破解版的严正声明](https://jaloroo.github.io/help/Crack)」
 1. 「[意见反馈需求池](https://github.com/Libv-MiaD/MiaD-Suggestion/issues)」, 点击查看你的反馈处理进度。
 1. **Android版本使用介绍请点击「[玩转喵滴](https://jaloroo.github.io/help/help)」。**
@@ -96,7 +95,7 @@ Android:
 > 活动最终解释权归@喵滴团队所有
 
 ### 更多
-假如您喜欢分享您的写作或笔记，请发送你的作品到喵滴团队邮箱——`2224825716@qq.com`，我们会安排在公众号上刊登。
+假如您喜欢分享您的写作或笔记，请发送你的作品到喵滴团队邮箱——`Libv-md@outlook.com`，我们会安排在公众号上刊登。
 
 ### 结尾
 > 参加内测请点击[官方内测群](:https://jq.qq.com/?_wv=1027&k=52RzxWK)
@@ -105,7 +104,7 @@ Android:
 
 ## 特别感谢
 * AppUI:酷友@123哆3、东南大学**吴越**(iOS)
-* App资源:(深圳大学)**陈晓淋**提供的英语版本(Android)、**苏晓漩**提供的中文繁体版本(Android)、**Serg**提供的俄文版本(Android)。
+* App资源:(深圳大学)**陈晓淋**提供的英语版本(Android)、(星海音乐学院)**苏晓漩**提供的中文繁体版本(Android)、**Serg**提供的俄文版本(Android)。
 * App测试:一直参加内测的小伙伴们
 
 ## 联系我们
@@ -114,5 +113,5 @@ Android:
 * E-mail:Libv-md@outlook.com
 * Weibo:Libv工作室
 
-最后更新于2020-04-27
+最后更新于2020-05-10
 编辑于「喵滴」
