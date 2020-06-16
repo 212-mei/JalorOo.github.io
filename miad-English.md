@@ -21,7 +21,7 @@
 
 ## Introductions 
 
-> 「MiaD」is an application we started to develop in 2019. It's mainly used for quick viewing, easy making of Markdown documents, writing, taking notes and making  memos. The application has many powerful functions but it's very small at the same time. Therefore , MiaD is an android application of convenience and quickness . We can double our working efficiency by using "meow drop" and "markdown" grammar together.
+> 「MiaD」is an application we developed in 2020. It's mainly used for quick viewing, easy making of Markdown documents, writing, taking notes and making  memos. The application has many powerful functions but it's very small at the same time. Therefore , MiaD is an android application of convenience and quickness . We can double our working efficiency by using "meow drop" and "markdown" grammar together.
 
 ### Ways of downloading
 * [Coolapk](https://www.coolapk.com/apk/cn.sunshinesudio.libv)

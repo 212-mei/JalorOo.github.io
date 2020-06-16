@@ -30,7 +30,7 @@ Android:
 1. **Android版本使用介绍请点击「[玩转喵滴](https://jaloroo.github.io/help/help)」。**
 
 ## 介绍
-> 「喵滴」是一款在2019年开始开发的应用，主要用于快速查看以及便捷编写Markdown文档、写作、做笔记、以及做备忘。应用拥有许多强大的功能，同时保持着尽量小的体积。因此喵滴是一款轻便、快捷的安卓应用。使用「喵滴」再配合上「[Markdown](https://jaloroo.github.io/Markdown-Intro)」语法，可以使我们的工作效率翻倍。(点击前面的Markdown即可快速了解Markdown)
+> 「喵滴」是一款在2020年开发的应用，主要用于快速查看以及便捷编写Markdown文档、写作、做笔记、以及做备忘。应用拥有许多强大的功能，同时保持着尽量小的体积。因此喵滴是一款轻便、快捷的安卓应用。使用「喵滴」再配合上「[Markdown](https://jaloroo.github.io/Markdown-Intro)」语法，可以使我们的工作效率翻倍。(点击前面的Markdown即可快速了解Markdown)
 
 ### 主要功能
 * 快速记录(Android)
